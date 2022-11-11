@@ -24,6 +24,7 @@ public class Reverseno {
     //         pow=pow/10;
     //     }
     //     System.out.println(res);
+    // sd
     int num=1234;
     int res;
     int temp=0;
